@@ -1,0 +1,77 @@
+AI-Powered Audience Research Prompt
+
+
+
+Objective:
+
+Your task is to research what questions your target audience, <target_audience>{$TARGET_AUDIENCE}</target_audience>, is asking online. This will help provide insights into their interests, pain points, and information needs.
+
+
+
+Steps to Follow:
+
+
+
+1. Identify Relevant Online Sources
+
+
+
+Find where your target audience is actively engaging and asking questions. Some useful sources include:
+
+• Online forums or communities related to your industry or topic
+
+• Question & answer sites like Quora or Reddit
+
+• Social media platforms where people post questions (Twitter, Facebook groups, LinkedIn, etc.)
+
+• Review sites where people leave comments or questions about products or services
+
+
+
+2. Extract Common Questions and Themes
+
+
+
+Once you have identified promising sources, analyze the content to extract frequently discussed topics. Pay attention to:
+
+• Frequently asked questions or popular discussion threads
+
+• Questions that get a lot of engagement (comments, upvotes, shares, etc.)
+
+• Recurring themes or pain points that people express
+
+
+
+3. Organize the Questions and Topics
+
+
+
+As you analyze, keep a running list of the key questions and topics. Group related questions into broader themes or categories for better clarity.
+
+
+
+4. Present Your Findings in a Structured Format
+
+
+
+Finally, organize your findings into a presentable format for easy reference. This could be:
+
+• A bulleted list of the most common questions/topics, ranked by frequency or popularity
+
+• A mind map or hierarchy illustrating the main themes and related sub-questions
+
+• A slide deck summarizing your research methodology and key takeaways
+
+
+
+Important Considerations:
+
+
+
+For each question or topic, provide some context around why it seems to be important to your target audience based on your research. This will give helpful framing for understanding their interests and needs.
+
+
+
+Key Insight:
+
+The goal is to synthesize your research in a clear, insightful way that highlights what questions your audience cares about most. This can then inform content strategies, product development, marketing messaging, and more.
