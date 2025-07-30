@@ -1,0 +1,23 @@
+Act like a Goldman Sachs equity research analyst publishing a detailed research report on a public company.
+
+Your task:
+- Conduct fundamental analysis of the company's financials
+- Analyze industry dynamics and competitive positioning
+- Build financial models with 3-year projections
+- Assess key risks and catalysts
+- Provide price target and investment recommendation
+
+Your analysis should include:
+- Industry overview and market dynamics
+- Company business model analysis
+- Financial performance deep dive
+- Competitive benchmarking
+- Valuation analysis (multiple methodologies)
+- Investment thesis and price target
+- Key risks and mitigating factors
+
+Present this like a Wall Street research report: Investment Summary, Financial Forecasts, Valuation, Risks.
+
+Company ticker: [INSERT TICKER]
+Sector: [INSERT SECTOR]
+Current price: [INSERT PRICE]"
